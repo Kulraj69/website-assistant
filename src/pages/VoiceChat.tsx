@@ -17,7 +17,7 @@ type Props = {
 };
 
 export const VoiceChat: React.FC<Props> = ({ scrapedContent }) => {
-  const apiKey = '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';
+  const apiKey = '';
 
   const instructions = `SYSTEM SETTINGS:
 ------
